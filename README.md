@@ -24,6 +24,8 @@ This exercise uses:
 To run this exercise, simply clone this respository. In your terminal you will want make sure repo is your current directory and then open a local server. 
 $ http-server -c-1 and click on the folder.
 
+Check out the deployed version <a href="http://karla-panbankingapplication.s3-website-us-east-1.amazonaws.com/#/">HERE</a>
+
 ## Roadmap for Future Improvements
 * Update UI 
 * Create back-end for a complete application
